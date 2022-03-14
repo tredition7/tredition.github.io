@@ -1,0 +1,14 @@
+html { 
+    background: white;
+    width: 1080px}
+body { 
+    background: #ddd;
+    width: 1080px;
+    margin: 0 auto;
+    padding: 2rem;
+
+    font-family: 'Fredoka', sans-serif;
+font-family: 'Syne Mono', monospace;}
+h1 {font-size: 46px}
+h2 {font-size: 46px}
+h3 {font-size: 46px}
